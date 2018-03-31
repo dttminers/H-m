@@ -12,7 +12,7 @@ class collectiionimageViewController: UIViewController {
    
     //collection view 1
     
-  //dd////
+  //dd//////
     
     
 
